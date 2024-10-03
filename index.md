@@ -1,6 +1,4 @@
-# Melissa Putri's Portfolio
-
-Welcome to my portfolio! Below are some of my key projects.
+Welcome to my portfolio! Below are some of my key projects. Please click on the titles to lead you to the corresponding repositories.
 
 ## Projects
 ### [NYC Taxi vs. Uber Demand Forecasting](https://github.com/melissadputri/nyc-taxi-demand-forecasting)
