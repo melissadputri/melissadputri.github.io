@@ -3,7 +3,7 @@
 Welcome to my portfolio! Below are some of my key projects.
 
 ## Projects
-### [NYC Taxi Demand Forecasting]
+### [NYC Taxi Demand Forecasting] (https://github.com/melissadputri/nyc-taxi-demand-forecasting)
 - Used machine learning models to predict demand for yellow taxis and Uber rides in NYC.
 
 ### [Intro to Java: Shadow Mario Game!]
