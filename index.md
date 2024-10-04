@@ -9,7 +9,7 @@ Welcome to my portfolio! Below are some of my key projects. Please click on the 
 
 ### [Forecasting IMDB Scores](https://github.com/melissadputri/imdb-forecasting)
 - Applying machine learning models to forecast IMDB scores based given features of a movie. Comparing the performance of several machine learning models and analysing the tradeoffs.
+
 ### [Analyzing Fertility Rates in Fiji: A Statistical Model on the Impact of Marriage Duration, Residence, and Education](https://melissadputri.github.io/Analyzing_Fertility_Rates.zip)
 - Utilizes data from the Fiji Fertility Survey to investigate factors influencing fertility rates among married women of Indian descent in Fiji.
 - The dataset classifies the number of children ever born (nChildren) based on three key factors: the duration of marriage (grouped in six categories), place of residence (Suva, urban, or rural), and educational level (none, lower primary, upper primary, or secondary or higher). - The aim is to determine how these factors, along with their potential interactions, are related to fertility rates.
-
