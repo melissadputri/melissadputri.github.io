@@ -2,9 +2,9 @@
 ### [Visit my LinkedIn page for more!](https://linkedin.com/in/melissadiandra/)
 
 ### Education
-HighScope Indonesia TB Simatupang, Jakarta IDN - Math & Science Major Class of 2021
-Trinity College, Melbourne AU - October Fast Track Programme 2021-2022
-University of Melbourne, Melbourne AU - BSc Data Science 2025
+**HighScope Indonesia TB Simatupang, Jakarta IDN** - Math & Science Major Class of 2021  
+**Trinity College, Melbourne AU** - October Fast Track Programme 2021-2022  
+**University of Melbourne, Melbourne AU** - BSc Data Science 2025  
 
 
 Welcome to my portfolio! Below are some of my key projects. Please click on the titles to lead you to the corresponding repositories.
