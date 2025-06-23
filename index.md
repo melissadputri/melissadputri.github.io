@@ -26,3 +26,11 @@ Welcome to my portfolio! Below are some of my key projects. Please click on the 
 - Language: R
 - Utilizes data from the Fiji Fertility Survey to investigate factors influencing fertility rates among married women of Indian descent in Fiji.
 - The dataset classifies the number of children ever born (nChildren) based on three key factors: the duration of marriage (grouped in six categories), place of residence (Suva, urban, or rural), and educational level (none, lower primary, upper primary, or secondary or higher). - The aim is to determine how these factors, along with their potential interactions, are related to fertility rates.
+
+### [Buy Now, Pay Later Project](https://github.com/melissadputri/BNPL)
+- Language: Python
+- This project is part of a group assignment for the MAST30034 Applied Data Science unit at The University of Melbourne.
+- Utilizing given retail data to build a merchant ranking system to determine the top 100 merchants to be included in the Buy Now, Pay Later program.
+- Main objective is to maximize profit as the BNPL entity by projecting the revenue of each merchants and minimizing risks of scam.
+- Revenue projection is made based on available features such as merchant category and location.
+- Several machine learning models are used for comparison purposes for the top 100 merchant ranking.
